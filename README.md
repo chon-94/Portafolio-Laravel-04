@@ -27,3 +27,18 @@
     
     php artisan serve
 
+
+# Tailwind
+
+
+## Iniciar
+
+    npm init -y
+
+## Instalar 
+
+    npm install tailwindcss
+
+## Configurar
+
+    npx tailwindcss init
